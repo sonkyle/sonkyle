@@ -15,13 +15,10 @@ Here are some ideas to get you started:
 
 # Hi, I'm Kyle or Seung Woo 👋
 
-🔭 Currently working on: kyleson.dev
-🌱 Learning: React, NextJS, Flask
-💬 Ask me about: Web Development and AI/ML
-📫 Reach me: [sonkyle0420@gmail.com](mailto:sonkyle0420@gmail.com) | [LinkedIn](https://www.linkedin.com/in/seung-woo-son/)
+- 🔭 Currently working on: kyleson.dev
+- 🌱 Learning: React, NextJS, Flask
+- 💬 Ask me about: Web Development and AI/ML
+- 📫 Reach me: [sonkyle0420@gmail.com](mailto:sonkyle0420@gmail.com) | [LinkedIn](https://www.linkedin.com/in/seung-woo-son/)
 
 ## 🛠 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,ts,java,html,css,c)](https://skillicons.dev)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,html,css,c,python)](https://skillicons.dev)
