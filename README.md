@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Hi, I'm Kyle or Seung Woo 👋
 
 - 🔭 Currently working on: kyleson.dev
-- 🌱 Learning: React, NextJS, Flask
+- 🌱 Learning: React, NextJS, FastAPI
 - 💬 Ask me about: Web Development and AI/ML
 - 📫 Reach me: [sonkyle0420@gmail.com](mailto:sonkyle0420@gmail.com) | [LinkedIn](https://www.linkedin.com/in/seung-woo-son/)
 
